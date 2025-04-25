@@ -1,6 +1,9 @@
 👋 Hi, I’m @njcodehub
+
 👀 I’m interested in embedded system
+
 🌱 I’m currently learning MQTT / IoT/ OTA
+
 ⚡ Fun fact : I want to replace this borring readMe soon
 
 <!---
