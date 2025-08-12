@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning MQTT / IoT/ OTA
 
-⚡ Fun fact : I want to replace this borring readMe soon
+
 
 <!---
 njcodehub/njcodehub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
